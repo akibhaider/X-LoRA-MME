@@ -99,23 +99,6 @@ w[label, model] = exp(F1[label, model] / τ) / Σ exp(F1[label, :] / τ)
 
 Per-(language, category) thresholds optimized on validation set by grid search over [0.1, 0.9].
 
----
-
-## Usage
-
-**Training:**
-```bash
-# Run Training.ipynb locally or on GPU
-# Outputs: trained_models/*.pt + ensemble_config.pkl
-```
-
-**Evaluation:**
-```bash
-# Run Evaluation.ipynb on Google Colab T4
-# Loads models and evaluates on test set
-```
-
----
 
 ## References
 
