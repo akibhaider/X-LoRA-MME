@@ -59,9 +59,9 @@ The tool achieved an **F1 Weighted score of 0.7906** and a **Macro F1 of 0.6867*
 
 ## Authors
 
-* **Md Akib Haider** (Islamic University of Technology)
-* **Ahsan Bulbul** (Islamic University of Technology)
-* **Nafis Fuad Shahid** (Islamic University of Technology)
+* **[Md Akib Haider](https://github.com/akibhaider)** (Islamic University of Technology)
+* **[Ahsan Bulbul](https://github.com/ahsanbulbul00)** (Islamic University of Technology)
+* **[Nafis Fuad Shahid](https://github.com/NafisFuadShahid)** (Islamic University of Technology)
 * **Aimaan Ahmed** (Islamic University of Technology)
 * **Mohammad Ishrak Abedin** (Islamic University of Technology)
 
