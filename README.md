@@ -1,4 +1,4 @@
-[![Watch Demo](https://YOUR-THUMBNAIL-URL.png)](https://drive.google.com/file/d/11b-wPbunSQw7JsNYQGRQ52nk94_LEtRV/view)
+### [![ICSE presentation](https://YOUR-THUMBNAIL-URL.png)](https://drive.google.com/file/d/11b-wPbunSQw7JsNYQGRQ52nk94_LEtRV/view)
 
 # LoRA-MME: Multi-Model Ensemble of LoRA-Tuned Encoders for Code Comment Classification
 
