@@ -1,4 +1,6 @@
-# X-LORA MME: Multi-Model Ensemble of LoRA-Tuned Encoders for Code Comment Classification
+[![Watch Demo](https://YOUR-THUMBNAIL-URL.png)](https://drive.google.com/file/d/11b-wPbunSQw7JsNYQGRQ52nk94_LEtRV/view)
+
+# LoRA-MME: Multi-Model Ensemble of LoRA-Tuned Encoders for Code Comment Classification
 
 **X-LORA MME** is a multi-model ensemble architecture developed for the **NLBSE'26 Tool Competition**. It utilizes Parameter-Efficient Fine-Tuning (PEFT) to address the multi-label code comment classification challenge across **Java**, **Python**, and **Pharo**.
 
